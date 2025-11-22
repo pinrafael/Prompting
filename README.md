@@ -49,5 +49,5 @@ Pricing :
 	- Everything from Pro and Premium version 
 	- having an ai assistance that gonna manage the note for you by just screenshot and let the rest ai do for you 
 ```
-
+it's gonna be detailed and the website gonna be in the way you like . this is just a beginner tips for programmer who want to use ai to building app or doing task for you , you just need to give it context don't waste time with the prompt engineering . it's very simple as this . but if you are want to be a prompt engineer you should check causera or learn it more . 
 
