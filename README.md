@@ -10,7 +10,7 @@ and they are a foundational technology for applications like chatbots and genera
 here's the only prompting tips that you'll ever need . if you aim to use ai more effieciently and not to become a prompt engineer
 use some of this tips i will give you . 
 
-## use master prompt 
+## use a context prompt 
 master prompt is good and very neccessary for you because if you don't use the master prompt you'll never be a best prompter
 for example
 ```
