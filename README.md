@@ -16,7 +16,9 @@ for example
 ```
 Build me a e-commerce website
 ```
+
 <p>but if you do it with this one</p>
+
 ```
 We are making an app that are specifically for trading and use it with a main Black and Gray theme . and here's the detail instruction you need to follow . 
 
